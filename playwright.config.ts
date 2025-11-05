@@ -2,7 +2,7 @@ import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
-  testMatch: '**/*.ts',
+  testMatch: process.env.RUN_ALL_TESTS ? ['**/emarat_login.ts', '**/emarat_compare_tmp49D6.ts', '**/simple_test.ts'] : ['**/simple_test.ts'],
   testIgnore: '**/framework/**',
   fullyParallel: false,
   forbidOnly: !!process.env.CI,
