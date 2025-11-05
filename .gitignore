@@ -1,0 +1,46 @@
+# Ignore node modules
+node_modules/
+
+# Ignore test results
+test-results/
+playwright-report/
+*.log
+
+# Ignore generated comparison files
+tmp49D6-comparison-report.json
+data/Actual_Results_Comparison.xlsx
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore build outputs
+dist/
+build/
+*.js.map
+
+# Keep data folder but ignore large files
+data/*.xlsx
+!data/tmp49D6.xlsx
+
+# Ignore mapping diagrams (they can be regenerated)
+*_MAPPING_DIAGRAM.txt
+
+# Ignore playwright state
+playwright/.auth/

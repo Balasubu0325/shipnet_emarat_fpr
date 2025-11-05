@@ -1,0 +1,3177 @@
+{
+  "timestamp": "2025-11-04T15:48:20.506Z",
+  "summary": {
+    "totalActual": 226,
+    "totalExpected": 0,
+    "matches": 0,
+    "mismatches": 0,
+    "notFoundInExpected": 226,
+    "matchRate": 0
+  },
+  "details": [
+    {
+      "accountCode": "CASH ON HAND - INR",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -724
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CASH ON HAND - INR(MUMBAI)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -4406.94
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "TEST ACCOUNT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -80.18,
+        "h2": -10000,
+        "total": -16243.34
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CASH ON HAND - USD",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -8500
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MMIN-AXIS-INR-915020001193379",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -60000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CITIBANK-SG USD 863741017",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 23350
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "INSS-INDIAN BK-INR-6045008845",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 105833,
+        "total": 105833
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SUPPLIER ADVANCE - GENERAL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": -124015.06,
+        "total": -135015.06
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SYNERGYGROUP OPERATIONS INC",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -483.73,
+        "h2": -111719.29,
+        "total": -112203.02
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ADVANCE TO CREW",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 59000,
+        "total": 59012.59
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CUSTOMER RECEIVABLE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 250,
+        "h2": 96829.11,
+        "total": 944179.7
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RECOVERABLE - SCORPIO MARINE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4310.02,
+        "h2": 5677.22,
+        "total": 16162.14
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AIRFARE RECOVERABLE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -1000,
+        "h2": 1111.6,
+        "total": 111.6
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW CHAT CARD - RECOVERABLE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BONDED STORES - RECOV CREW",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 52.67,
+        "h2": -1200,
+        "total": 852.67
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHER DEDUCTIONS /RECOVERABLES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -0.46,
+        "h2": -3600,
+        "total": -3600.46
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NB EXP. RECEIVABLE FROM OWNERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 400,
+        "total": 400
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD EXP. RECEIVABLE FROM OWNERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2000,
+        "total": 2000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LUBRICATING OIL - STK ON BOARD",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 72606.48,
+        "h2": 3558,
+        "total": 76164.48
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BONDED STORES - STOCK ON BOARD",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2141.99,
+        "h2": 4666.62,
+        "total": 6641
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PROVISIONS -STOCK ON BOARD",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW CHAT CARDS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 700,
+        "total": 700
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MASTER'S CASH ACCOUNT(USD)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4746.63,
+        "h2": 11527.62,
+        "total": 25531.33
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CTM - IN TRANSIT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RECOVERABLES FROM OWNERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "IGST INPUT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 5938.02
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ADVANCE VESSEL FUNDS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 50000,
+        "total": -892161.38
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RETAINED SURPLUS/DEFICIT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 128306.85,
+        "total": -192825.22
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RETAINED SURPLUS/DEFICIT-OPBAL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 239702.66
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RETAINED SURPLUS/DEFICIT-BUDGT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": -59565.92,
+        "total": -73265.92
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RETAINED SURPLUS/DEFICIT-NB",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 569.96,
+        "total": 569.96
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RETAINED SURPLUS/DEFICIT-PD",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 28284.39,
+        "total": 28284.39
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OWN VSL FUND A/C (AD OPEX FUN)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -968666.42,
+        "h2": -1011857.18,
+        "total": -4712375.45
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OWN VSL FUND CA (NB REP FUND)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -260122.33,
+        "h2": 0,
+        "total": -307072.99
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OWNER VSL FUNDS C/A (PREDELIV)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -13306.99,
+        "h2": -64840,
+        "total": -78146.99
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DRYDOCK PROVISION OWNER FUND",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 110377.87,
+        "total": 21220.41
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ASSETS & LIABILITIE OF PRE MGT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -99144.85,
+        "h2": 0,
+        "total": -106378.05
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SYNERGY MARINE PTE LTD-VSL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -12613.7,
+        "h2": 196503.26,
+        "total": 593491.65
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "TIRUMALA GAS - SOPL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -32000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SUPPLIER PAYABLE - GENERAL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -73491.76,
+        "h2": -695064.03,
+        "total": -1195252.11
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SUNDRY A/C'S PAYABLE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "IGST OUTPUT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -5938.02
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CGST OUTPUT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VAT ACCOUNT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -4841.39
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VAT MIRROR",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 17855.18
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VAT BASIS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -17871.07
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VAT DEDUCTION ACCOUNT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 15.89
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW ALLOTMENT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 250,
+        "h2": 0,
+        "total": -11955.96
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CHAT CARD PAYABLE A/C",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PROVISION PAYABLE A/C",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BONDED STORE PAYABLE A/C",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": -2587.76,
+        "total": -2587.76
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BAL. OF CREW WAGES (PORT BILL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -5090.55,
+        "h2": -17829.87,
+        "total": -26262.67
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ACCUMULATED LEAVE WAGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -12465.12,
+        "h2": -30265.31,
+        "total": -42730.43
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BENEFITS CONTRIBUTION - CREW",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -55,
+        "h2": 0,
+        "total": -55
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LUBE OIL PAYABLE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "Agent Control Account",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 125912.39,
+        "total": 125912.39
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ADDITIONAL PAID-IN-CAPITAL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 15000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VESSEL MANAGEMENT FEE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": -189130.5,
+        "total": -165780.5
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BASIC WAGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 184362.53,
+        "h2": 134813.7,
+        "total": 776093.22
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FIXED OVERTIME",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 108417.62,
+        "h2": 97698.26,
+        "total": 550840.47
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "EXTRA OVERTIME",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 5465.78,
+        "total": 5465.78
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LEAVE PAY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 43837.44,
+        "h2": 39665.94,
+        "total": 290711.34
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHER ALLOWANCES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 168247.15,
+        "h2": 129587.36,
+        "total": 873911.57
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PF/JSU RET.PAY CONTRIBUTION",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2009.43,
+        "h2": 0,
+        "total": 47051.03
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LONG SERVICE ALLOWANCE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1058,
+        "h2": 0,
+        "total": 38564.7
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2000,
+        "h2": 0,
+        "total": 1949.55
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHER UNION FEE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 25188.37,
+        "total": 30089.44
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BENEFITS CONTRIBUTION - EMPLOY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1996.05,
+        "h2": 0,
+        "total": 2296.05
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AVC CONTRIBUTION",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 37.29,
+        "h2": 0,
+        "total": 6515.54
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW GRATUITY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 105.15,
+        "h2": 0,
+        "total": 3000.6
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SEAFARERS WEL FND SOCTY (SWFS)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 179.55,
+        "h2": 0,
+        "total": 22623.1
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SAILOR HOME PAYMENTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 250
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NUSI/ITF - TRAINING DUES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 600
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW AIR TRAVEL EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 89628.5,
+        "h2": 39828.25,
+        "total": 195661.74
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-JOIN MEDICAL EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2134.09,
+        "h2": 650,
+        "total": 70545.52
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MEDICAL EXPENSES MEDICAL STOR",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 60971.83
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MEDICAL EXPENSE MEDICAL BONUS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 5000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MEDICAL EXPENSES - SUNDRIES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 7071,
+        "h2": 5000,
+        "total": 84039.56
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MEDICAL EXPS REPATR/EPLACEMEN",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 1161,
+        "total": 1161
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RECRUITMENT / JOINING COSTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2074.06,
+        "h2": 0,
+        "total": 3640.1
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW SIGN ON/OFF-HSBNDRY EXP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 16538.26,
+        "h2": 47063.61,
+        "total": 117504.19
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW LOCAL TRAVEL & STAY EXP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1673.1,
+        "h2": 10000,
+        "total": 53994.75
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW SUNDRY EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 8080.81,
+        "h2": 12653.99,
+        "total": 20787
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "UNION / ITF EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 1730
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "UNION DUES PAID BY EMPLOYER",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 14434.27,
+        "h2": 24922.34,
+        "total": 41246.61
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW WELFARE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3780,
+        "h2": 2253.76,
+        "total": 13412.31
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "STCW & OTHER TRAINING COSTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 8444.69,
+        "h2": 6989.05,
+        "total": 39710.54
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "IND CREW - MAN FEE & ADMIN COS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 9189.04,
+        "h2": 0,
+        "total": 61439.04
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHR NAT CW -MNG FEE & ADM COS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 7800,
+        "h2": 14000,
+        "total": 21800
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "EPF/CPF CONTRIBUTION",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4799.82,
+        "h2": 0,
+        "total": 4799.82
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FLAG STATE LICENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3539.23,
+        "h2": 0,
+        "total": 6176.43
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PPE, UNIFORMS, BAGS &PRSNL GRS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2298.36,
+        "h2": 0,
+        "total": 53398.68
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW EXPENSES - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -5054.89
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VICTUALLING EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 51000.14,
+        "h2": 44402.26,
+        "total": 215056.55
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PROVISIONS DELIVERY CHARGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 3012.6,
+        "total": 3012.6
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PAINTS - SEASTOCK",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 9423.52,
+        "h2": 0,
+        "total": 27079.78
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MOORING WIRES & TAILS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 699.02
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CARGO GEAR WIRES & OTHER WIRES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 11495.39,
+        "total": 11495.39
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MOORING ROPES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 4725,
+        "total": 10046.71
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LASHING GEAR",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 1617.04
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "HOLD / TK CLEANING CHEMICALS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 2469.76
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "GASES, WELDING EQUIP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 6174.07,
+        "h2": 1491.6,
+        "total": 8081.33
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SIGNALS & SAFETY EQUIPMENTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3441.3,
+        "h2": 3201.77,
+        "total": 16166.52
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "HARDWARE MATERIAL PIPES, PLAT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 5100.16,
+        "h2": 0,
+        "total": 5100.16
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CHARTS, NAUTICAL PUBLICATIONS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1922,
+        "h2": 2038.21,
+        "total": 20954.81
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ELECTRONIC CHARTS, LICENCES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 14400.48,
+        "h2": 8277,
+        "total": 34841.65
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MEDICINES & MEDICAL EQUIPMENT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 5136.99,
+        "h2": 2000.07,
+        "total": 12735.92
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "STATIONARY & RADIO/PURSER STO",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1882,
+        "h2": 1891.98,
+        "total": 11780.15
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS - DECK",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3078.47,
+        "h2": 0,
+        "total": 11171.43
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ELECT STORES & EQUIP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3945.84,
+        "h2": 2112.12,
+        "total": 16716.98
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "TRTMNT & MAINT CHEMICALS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1791.12,
+        "h2": 3825.17,
+        "total": 17079.03
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BALLAST WATER TRTMNT CHEMICALS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 4999.29,
+        "total": 7670.89
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS - ENGINE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1494.19,
+        "h2": 0,
+        "total": 4292.36
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "GALLEY, PANTRY, EQUIP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 20,
+        "h2": 2176.44,
+        "total": 2511.3
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LINEN/CABIN EQUP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4464.6,
+        "h2": 0,
+        "total": 9266.82
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PERSNL GEARS-HELMTS,BOILR SUIT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 57.19,
+        "total": 789.66
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "TRANSPORT / DELIVERY EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 92.1,
+        "h2": 1600.76,
+        "total": 8974.46
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "STORES - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -6160.17
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MAIN ENGINE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 1725.57,
+        "total": 32903.6
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AUX ENG., GENERATORS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2331.73,
+        "h2": 4476.91,
+        "total": 36742.85
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PURIFIERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2174.33,
+        "total": 15296.86
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AIR COMPRESSORS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2771.99,
+        "total": 14510.57
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AUX BOILE, EXH GAS ECONO, INCI",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2182.4,
+        "total": 2566.87
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MARPOL EQUIPMENTS - OWS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 119.45,
+        "total": 3298.43
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PUMPS & ATTACHED PRIMER MOVERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 5508.31,
+        "total": 7412.64
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BALLAST WATER TREATMNT SYSTEMS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 36164,
+        "total": 40340.57
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "EXHAUST GAS SCRUBBER & SCR SYS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 3534.81
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHER AUX MACHINERY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 120.74,
+        "total": 3969.56
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CORROSION PROTECTION & ANODES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 1838.18
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CARGO, EQUIP SPAR CRANES/DERR",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 1618.49,
+        "total": 1618.49
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DECK MACHINERY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2675,
+        "h2": 8563.43,
+        "total": 15005.1
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COMMUNICATION, RADIO EQUIPMENT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2141.06,
+        "h2": 0,
+        "total": 7633.63
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RADAR & NAVIGATION AID EQUIP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1524.6,
+        "h2": 0,
+        "total": 1524.6
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ELECTRICAL / U.M.S / CONTROLS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 133.5,
+        "total": 133.5
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LIFE SAVING EQPMNT (LSA&E)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 200,
+        "h2": 102.15,
+        "total": 3868.89
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ACCOMMOD, GALLEY, PAN CABIN",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 108.06,
+        "total": 1038.88
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FIRE FIGHTING EQPMNT (FFA&E)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 4695.12
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SP PART FOR PIPE & VALVES DEC",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 614.26
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SP PART FOR PIPES & VALV ENG",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 999.63
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS - SPARES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1567.85,
+        "h2": 0,
+        "total": 28802.06
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MOTOR, GRAB ACCS, ELEC CAB ETC",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2230,
+        "h2": 2405.45,
+        "total": 4635.45
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SPARES - TRANSPORT DELIVERY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 6160.72,
+        "h2": 17283.36,
+        "total": 34196.96
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SPARES - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -10709.19
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MECYL - LUBE OIL CONUMPTION",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 52592.03,
+        "h2": 0,
+        "total": 52592.03
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LOW SULFUR OIL GRADE IN MECYL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHER GRADES - LUBES & GREASES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 18735.66,
+        "h2": 0,
+        "total": 18735.66
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "LUBE OIL - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SAFETY EQUIPT REPAIRS & MAINT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2254,
+        "total": 2848.95
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DECK MACHINERY REPAIRS & MAINT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 2564.89
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BALLAST WATER TREATMNT SYS_R&M",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 8500,
+        "total": 10725
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "RADAR & NAVIG AID REP & MAINT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2070,
+        "total": 18913.68
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COMMUNICATION / NAVIG AIDS R&M",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 3494.33,
+        "total": 4316.19
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FIRE FIGHT, LIFE SAV EQP R&M",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1500,
+        "h2": 3952,
+        "total": 17007.97
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ACCOMMOD /GALLEY EQPMNT R&M",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 1058.13
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "STATUTORY SURVEY FEE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1527.94,
+        "h2": 11250,
+        "total": 68926.16
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OCCASIONAL SURVEY FEE, NEW REG",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 6785.54,
+        "h2": 795.32,
+        "total": 12095.86
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS - REPAIRS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2750,
+        "h2": 0,
+        "total": 14608.34
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SHIPPALM (PMS) SYS MAINT &SUPP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 500,
+        "h2": 3710,
+        "total": 15210
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "UNDERWATER PARTS-REPAIRS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "OTHER REPAIRS (MACHINERY)",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 2937
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "R&M - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VESSEL MANAGEMENT FEE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 53786.3,
+        "h2": 66500,
+        "total": 310286.3
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "VESSEL'S COMMUNICATIONS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 15213.55,
+        "h2": 14284.34,
+        "total": 73698.92
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COMMUNICATION & POSTAGE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 2379.95,
+        "h2": 2986.8,
+        "total": 13033.76
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRINTING & STATIONARY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 586,
+        "total": 7671.67
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COURIER FORWARDING EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 590.18
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "ENTERTAINMENT EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1094.88,
+        "h2": 27,
+        "total": 6105.33
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "GARBAGE & DOM.WASTE DISPOSAL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3615.35,
+        "h2": 1900,
+        "total": 5601.79
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MARPOL ANX-1 DISPOSAL EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 23.81,
+        "total": 6853.51
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "INCIDENTAL PORT EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 300,
+        "h2": 0,
+        "total": 300
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SUNDRIES EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1200,
+        "h2": 275.17,
+        "total": 4510.99
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "INTERNAL AUDITS & O/B TRNG EXP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 1938
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SERVICE, CONSULT&LEGAL FEE EXP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 13734.06,
+        "h2": 50,
+        "total": 19738.34
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CONTRACTED&SUBSCRIBED SERVICES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 706.1,
+        "total": 3066.57
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FLAG REL EXP-REG FEE, TON TAX",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 8672.8,
+        "h2": 1151,
+        "total": 10334.8
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SUPT ATTENDANCE - AGENCY COSTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 547.51,
+        "h2": 865.53,
+        "total": 4818.87
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "SUPT ATTENDANCE-TRAVEL TICKETS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 437.66,
+        "total": 834.24
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AGENCY FEES (NON-MANNING - OT",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4949.88,
+        "h2": 84,
+        "total": 10475.31
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FUEL / LUBE OIL TESTING COSTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 3014.65,
+        "h2": 1952,
+        "total": 10669.34
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "FRESH WATER SUPPLY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 972,
+        "total": 1715
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -45
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "P&I CALL / INSURANCE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 137735.51,
+        "h2": 0,
+        "total": 137735.51
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "INSURANCE EXP-CYBER ATTACK",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 1000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "HULL & MACHINERY INSURANCE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 108773.44,
+        "h2": 0,
+        "total": 108773.44
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COFR INSURANCE COSTS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 330.7,
+        "h2": 0,
+        "total": 4925.46
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS - INSURANCE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 2010.29,
+        "total": 2010.29
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD - GENERAL SERVICES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 77666.61,
+        "total": 88723.28
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD - AMORTIZATION W/O EXP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 818.42
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD-WORKS ON NAVIG EQUIP & CTRL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 62000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD - DOCKAGE & WHARFAGE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": -1000,
+        "total": 19000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD - HULL STEEL WORKS / REP",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 125000,
+        "total": 135000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD-HULL PAINTING WORKS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 25,
+        "total": 25
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD-UNDERWATER PART REPAIRS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 29000,
+        "total": 29000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD-THIC MEAS&TANK/HOLD IN",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4560,
+        "h2": 0,
+        "total": 4560
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD - STORES - STEEL PLATE / BA",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4564.33,
+        "h2": 0,
+        "total": 4564.33
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD - SUPT. FEES & EXPENCES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 5510,
+        "h2": 0,
+        "total": 5510
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "DD-SURVEY FEE (CLASS/GOVERNMEN",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1962,
+        "h2": 0,
+        "total": 1962
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: CREW WAGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 3000,
+        "total": 3000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "AGENCY FEE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 8000,
+        "total": 8000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: CREW EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 7623.77,
+        "h2": 6000,
+        "total": 13623.77
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: VICTUALLING EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 130589.07,
+        "total": 130589.07
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: INSURANCE EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 12227.5,
+        "total": 12227.5
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: LUBRICATING OIL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 94591.12,
+        "total": 94591.12
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: STORES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 11957.79,
+        "h2": 12227.6,
+        "total": 24185.39
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: SPARES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 555.8,
+        "total": 555.8
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: REPAIRS & MAINTENANCE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 148507.62,
+        "total": 148507.62
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: REG & SURVEY FEES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 6288.69,
+        "h2": 0,
+        "total": 6288.69
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: OTHERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 1499.2,
+        "h2": 0,
+        "total": 1499.2
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "PRE-OPS: COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "EXTRA WORK ALLOWANCE",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 329.65,
+        "h2": 0,
+        "total": 329.65
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NON BUDGET STORES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 2398.27
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NON BUDGET LUBE OIL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 679,
+        "h2": 0,
+        "total": 679
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NON BUDGET OTHERS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 5040.2,
+        "h2": 0,
+        "total": 38217.96
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NON BUDGET CLASS & SURVEY",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 14119.88
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "P&I-CREW RELATE INCID EXP/COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 29075.14
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "COVID-19_MEDICAL",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 839.75,
+        "h2": 0,
+        "total": 839.75
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "NONBUDGET - COMMITTED COST",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 0
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CREW HOLD CLEANING BONUS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 4500,
+        "h2": 0,
+        "total": 4500
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "MISCELLANEOUS",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": 15000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CHARTERER'S EXPENSES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 604.11,
+        "h2": 2747.63,
+        "total": 6133.11
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BANK CHARGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 945.66,
+        "h2": -174843.73,
+        "total": -281355.84
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "CTM ADVANCING BANK CHARGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 660,
+        "h2": 495.23,
+        "total": 4506.23
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "BANK CHARGES",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -17000
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "EXCHANGE DIFF/ROUND OFF",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": -1494.19,
+        "h2": -2349.59,
+        "total": -11952.85
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    },
+    {
+      "accountCode": "INCOME TAX",
+      "accountName": "",
+      "status": "NOT_IN_EXPECTED",
+      "actual": {
+        "h1": 0,
+        "h2": 0,
+        "total": -12.59
+      },
+      "expected": null,
+      "differences": [
+        "Account not found in expected results"
+      ]
+    }
+  ]
+}
